@@ -16,6 +16,6 @@ Please note:
 
   3. This dataset is for research purpose only. For any commercial use please contact Dr. Bharat Lohani at blohani@iitk.ac.in
 
-  4. When using this dataset please refer to this as: Kumar, B., Lohani, B., and Pandey, G., "MOBLID: Mobile LiDAR Sample Data for Training Deep Learning Systems", GitHub, March 2018
+  4. When using this dataset please refer to this as: Kumar, B., Lohani, B., and Pandey, G., "MOBLID: Mobile LiDAR Sample Data for Training Deep Learning Systems", GitHub, September 2018
 
 Acknowledgement: The Mobile LiDAR data used here are received from Geokno India Pvt. Ltd., Hyderabad +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
